@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-func main() {
 	// init
 	var buf0 []int             // len=0, cap=0
 	buf1 := []int{}            // len=0, cap=0
